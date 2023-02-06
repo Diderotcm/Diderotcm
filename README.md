@@ -14,6 +14,7 @@
   - 💬 Vamos conversar sobre: Tecnologia, Filmes, Surf e xadrez.<br>
   - 📱 Tecnologias: Python, SQL, PowerBi, PySpark, HTML, Excel.<br>
   - 🏄 amante se surf e música.<br>
+    
   </p> 
 
 <p align="center">
