@@ -29,7 +29,7 @@
 
 ## PROJETOS
 
-<img align="left" width="340px" height="400px" alt="Projetos" src="https://raw.githubusercontent.com/Diderotcm/Diderot-Marinho/main/logos/data.gif?token=GHSAT0AAAAAAB5XV4E2LN4TJFCAGT6CVC2SY7A7XMQ"/>
+<img align="left" width="340px" height="400px" alt="Projetos" src="https://github.com/Diderotcm/Diderotcm/blob/main/logos/data.gif?raw=true"/>
 
 <p align="left">
  <br>
