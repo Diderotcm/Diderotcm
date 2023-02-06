@@ -33,16 +33,16 @@
 
 <p align="left">
  <br>
- </><a href="https://github.com/Diderotcm/Solid-bank" target="_blank">Projeto Solid-Bank</a> <br>
+ </><a href="https://github.com/Diderotcm/Solid-bank" target="_blank">&nbsp;Projeto Solid-Bank</a> <br>
  <p>Análise de Crédito</p>
 <br>
- <a href="https://github.com/Diderotcm/Delivery-Duration-Prediction" target="_blank">Previsão de delivery</a>  <br>
+ <a href="https://github.com/Diderotcm/Delivery-Duration-Prediction" target="_blank">&nbsp;Previsão de delivery</a>  <br>
  <p>Previsão de tempo de entrega </p>
  <br>
- <a href="https://github.com/Diderotcm/Reducing-Traffic-Mortality-in-the-USA" target="_blank">Mortalidade de transito USA</a><br>
+ <a href="https://github.com/Diderotcm/Reducing-Traffic-Mortality-in-the-USA" target="_blank">&nbsp;Mortalidade de transito USA</a><br>
  <p>Análise de clusters</p>
 <br>
- <a href="https://github.com/Diderotcm/Predict-Credit-Card-Fraud" target="_blank">Previsão de fraude</a> <br>
+ <a href="https://github.com/Diderotcm/Predict-Credit-Card-Fraud" target="_blank">&nbsp;Previsão de fraude</a> <br>
  <p>Fraudes em cartão de credito</p>
 </p>
 <br>
