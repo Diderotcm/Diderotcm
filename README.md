@@ -13,7 +13,7 @@
   - 📘 atualmente estudando Python, Data Science, Machine Learning, PowerBi, SQL.<br>
   - 💬 Vamos conversar sobre: Tecnologia, Filmes, Surf e xadrez.<br>
   - 📱 Tecnologias: Python, SQL, PowerBi, PySpark, HTML, Excel.<br>
-  - 🏄 amante se surf e música.<br>
+  - 🏄 amante de surf e música.<br>
     <br>
   </p> 
 
