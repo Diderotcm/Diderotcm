@@ -14,7 +14,7 @@
   - 💬 Vamos conversar sobre: Tecnologia, Filmes, Surf e xadrez.<br>
   - 📱 Tecnologias: Python, SQL, PowerBi, PySpark, HTML, Excel.<br>
   - 🏄 amante se surf e música.<br>
-    
+    <br>
   </p> 
 
 <p align="center">
@@ -24,6 +24,7 @@
   height="30px" src="https://github.com/Diderotcm/Diderotcm/blob/main/logos/Gmail-Logo.png?raw=true" /></a>
 
  </p>
+<br>
 <br>
 
 ## PROJETOS
