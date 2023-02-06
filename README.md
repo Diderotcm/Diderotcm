@@ -29,7 +29,7 @@
 
 ## PROJETOS
 
-<img align="left" width="340px" height="400px" alt="Projetos" src="https://github.com/Diderotcm/Diderotcm/blob/main/logos/data.gif?raw=true"/>
+<img align="left" width="340px" height="300px" alt="Projetos" src="https://github.com/Diderotcm/Diderotcm/blob/main/logos/data.gif?raw=true"/>
 
 <p align="left">
  <br>
