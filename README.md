@@ -50,6 +50,6 @@
 <div>
 <br>    
 <a href="https://github.com/Diderotcm">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diderotcm&layout=compact&langs_count=7&theme=dracula" min-width="440px" max-width="440px" width="370px" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diderotcm&layout=compact&langs_count=7&theme=dracula" min-width="440px" max-width="440px" width="370px" height="330px align="left" >
 <img src="https://github-readme-stats.vercel.app/api?username=Diderotcm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" min-width="400px" max-width="400px" width="370px" align="left">
 </div>
