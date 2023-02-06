@@ -18,9 +18,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-diderot"  target="_blank"><img align="left" alt="Fernando Diderot | Linkedin" width="80px"
- height="40px" src='https://github.com/Diderotcm/Diderot-Marinho/blob/main/logos/Linkedin.png?raw=true' /></a>
+ height="40px" src='https://github.com/Diderotcm/Diderotcm/blob/main/logos/Linkedin.png?raw=true' /></a>
   <a href="mailto:diderotmarinho@gmail.com"  target="_blank"><img align="left" alt="Fernando Diderot | Linkedin" width="50px"
-  height="30px" src="https://github.com/Diderotcm/Diderot-Marinho/blob/main/logos/Gmail-Logo.png?raw=true" /></a>
+  height="30px" src="https://github.com/Diderotcm/Diderotcm/blob/main/logos/Gmail-Logo.png?raw=true" /></a>
 
  </p>
 <br>
